@@ -12,6 +12,7 @@ namespace Module_6_______Merging_Branches_Using_Visual_Studio
         {
 
             Console.WriteLine("Hello");
+            Console.WriteLine("New Branch Created");
 
         }
     }
