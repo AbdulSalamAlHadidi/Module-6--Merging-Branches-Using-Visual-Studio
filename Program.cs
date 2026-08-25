@@ -8,6 +8,13 @@ namespace Module_6_______Merging_Branches_Using_Visual_Studio
 {
     internal class Program
     {
+
+
+        static int MultiplyFunction(int num1,int num2)
+        {
+            return num1 * num2;
+        }
+
         static void Main(string[] args)
         {
 
@@ -17,6 +24,7 @@ namespace Module_6_______Merging_Branches_Using_Visual_Studio
             Console.WriteLine("This is edits from github, to test pull and three way merge");
             
 
+            Console.WriteLine(MultiplyFunction(1,66).ToString());
         }
     }
 }
