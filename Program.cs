@@ -14,6 +14,9 @@ namespace Module_6_______Merging_Branches_Using_Visual_Studio
             Console.WriteLine("Hello");
             Console.WriteLine("New Branch Created");
 
+            Console.WriteLine("This is edits from github, to test pull and three way merge");
+            
+
         }
     }
 }
